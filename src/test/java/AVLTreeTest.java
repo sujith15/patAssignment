@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class RegressionTest {
+public class AVLTreeTest {
 
     public static boolean debug = false;
 
